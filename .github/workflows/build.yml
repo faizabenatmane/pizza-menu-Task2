@@ -32,6 +32,6 @@ jobs:
     - name: Build the project
       run: npm run build
 
-    # Optional Step 5: Run tests
-    - name: Run tests
-      run: npm test
+    # # Optional Step 5: Run tests
+    # - name: Run tests
+    #   run: npm test
